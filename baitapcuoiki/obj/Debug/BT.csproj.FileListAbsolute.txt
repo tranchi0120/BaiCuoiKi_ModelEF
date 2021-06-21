@@ -1,0 +1,16 @@
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\baitapcuoiki.dll.config
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\baitapcuoiki.pdb
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\EntityFramework.dll
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\PagedList.dll
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\PagedList.Mvc.dll
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\EntityFramework.xml
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\PagedList.xml
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\bin\Debug\PagedList.Mvc.xml
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\obj\Debug\BT.csprojAssemblyReference.cache
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\obj\Debug\BT.csproj.CoreCompileInputs.cache
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\obj\Debug\BT.csproj.CopyComplete
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\obj\Debug\baitapcuoiki.dll
+C:\Users\Tranchi\OneDrive\Documents\btC#\WEB\WEB\baitapcuoiki\obj\Debug\baitapcuoiki.pdb
